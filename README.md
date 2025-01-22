@@ -78,7 +78,7 @@ cd backend
 npm install
 npm run dev
 
-# 3. Update .env with your MySQL credentials
+### 3. Update .env with your MySQL credentials
 
 ### 4. Frontend
 bash
@@ -86,11 +86,11 @@ cd frontend
 npm install
 npm start
 
-## 5. API Endpoints
+### 5. API Endpoints
 - GET `/api/projects` - List all projects
 - POST `/api/generate-portfolio` - Generate portfolio
 
-## 6. Testing
+### 6. Testing
 bash
 cd backend
 npm test
